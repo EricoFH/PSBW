@@ -31,7 +31,7 @@ Nama dan isi folder dapat berubah sesuai dengan perkembangan project.
 Website ini dipublikasikan menggunakan GitHub Pages.
 
  **Link:**
-https://ericofh.github.io/Bootstrap_PSBW/
+https://ericofh.github.io/PSBW/
 
 ## Cara Menjalankan
 
