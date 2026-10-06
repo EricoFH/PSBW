@@ -13,6 +13,7 @@ Beberapa teknologi yang digunakan dalam project ini:
 * HTML untuk membuat struktur halaman
 * CSS untuk mengatur tampilan dan layout
 * Bootstrap untuk membantu membuat beberapa bagian tampilan
+* JavaScript untuk fitur interaksi pada website
 * GitHub Pages untuk menjalankan website secara online, meskipun ini opsional
 
 ## Isi Project
@@ -22,6 +23,7 @@ File dalam project ini terdiri dari:
 ```text
 ├── index.html
 ├── style.css
+├── script.js
 ```
 
 Nama dan isi folder dapat berubah sesuai dengan perkembangan project.
